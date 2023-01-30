@@ -12,3 +12,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=thehrz&show_icons=true&locale=en" alt="thehrz" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehrz&" alt="thehrz" />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
