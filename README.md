@@ -10,24 +10,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=thehrz&show_icons=true&locale=en" alt="thehrz" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehrz&" alt="thehrz" />
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Vue.js                   10 hrs 23 mins      ████████████░░░░░░░░░░░░░   47.89% 
-Go                       4 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.9% 
-TypeScript               3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.96% 
-JSON                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.86% 
-Other                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.85%
-
-```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Thehrz/Thehrz/master/charts/bar_graph.png) 
-
-
- Last Updated on 31/01/2023 18:37:34 UTC
-<!--END_SECTION:waka-->
